@@ -1,4 +1,5 @@
 # test-bumpgem
+fake rc change
 whoah
 blah
 another

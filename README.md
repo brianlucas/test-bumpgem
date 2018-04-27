@@ -1,4 +1,5 @@
 # test-bumpgem
+whoah
 blah
 another
 first change!

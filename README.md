@@ -1,7 +1,5 @@
 # test-bumpgem
-fake rc change
-whoah
-blah
+new readme change
 another
 first change!
 change from master
